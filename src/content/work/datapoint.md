@@ -1,7 +1,7 @@
 ---
-title: 'Work 1'
+title: 'Datapoint'
 description: 'Lorem ipsum dolor sit amet'
 heroImage: '/placeholder-hero.jpg'
 ---
 
-Nick testing some work 1
+Nick testing some work 2
