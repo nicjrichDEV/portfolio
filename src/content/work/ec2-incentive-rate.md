@@ -1,5 +1,5 @@
 ---
-title: 'Datapoint'
+title: 'EC2 Incentive Rates'
 description: 'Lorem ipsum dolor sit amet'
 heroImage: '/placeholder-hero.jpg'
 role: 'Desinger'

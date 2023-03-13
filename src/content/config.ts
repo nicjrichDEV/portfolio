@@ -30,6 +30,11 @@ const workCollection = defineCollection({
     title: z.string(),
     description: z.string(),
     heroImage: z.string().optional(),
+    role: z.string(),
+    projectDate: z
+      .string()
+      .or(z.date())
+      .transform((val) => new Date(val)),
   }),
 });
 

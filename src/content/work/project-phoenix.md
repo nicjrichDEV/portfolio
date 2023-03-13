@@ -1,5 +1,5 @@
 ---
-title: 'Datapoint'
+title: 'Project Phoenix'
 description: 'Lorem ipsum dolor sit amet'
 heroImage: '/placeholder-hero.jpg'
 role: 'Desinger'
